@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # AirBnB clone - The console
 
@@ -61,3 +62,6 @@ $
 
 #### Git: muhammadxy
 ####
+=======
+# AirBnB_clone
+>>>>>>> ef0eb70f494d710ceeb220a2fa5106725eb3c877
